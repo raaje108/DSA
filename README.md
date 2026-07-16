@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/raaje108/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/raaje108/DSA/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/raaje108/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/raaje108/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
 |  |
 | ------- |
