@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/raaje108/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/raaje108/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/raaje108/DSA/tree/master/0518-coin-change-ii) |
+| [0605-can-place-flowers](https://github.com/raaje108/DSA/tree/master/0605-can-place-flowers) |
 | [0931-minimum-falling-path-sum](https://github.com/raaje108/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/raaje108/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raaje108/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/raaje108/DSA/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
