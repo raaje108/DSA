@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/raaje108/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/raaje108/DSA/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/raaje108/DSA/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/raaje108/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0931-minimum-falling-path-sum](https://github.com/raaje108/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/raaje108/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raaje108/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raaje108/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/raaje108/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
