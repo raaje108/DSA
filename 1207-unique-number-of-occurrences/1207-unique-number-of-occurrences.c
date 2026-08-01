@@ -1,22 +1,37 @@
 #include <stdbool.h>
+#include <stdlib.h>
+
+int cmp(const void* a, const void* b) {
+    return (*(int*)a - *(int*)b);
+}
 
 bool uniqueOccurrences(int* arr, int arrSize) {
-    int freq[2001] = {0};
-    
-    // Count frequency of each number
-    for (int i = 0; i < arrSize; i++) {
-        freq[arr[i] + 1000]++;
-    }
+    qsort(arr, arrSize, sizeof(int), cmp);
 
-    // Check whether two numbers have the same frequency
-    for (int i = 0; i < 2001; i++) {
-        if (freq[i] == 0)
-            continue;
+    int freq[1001] = {0};
+    int freqSize = 0;
 
-        for (int j = i + 1; j < 2001; j++) {
-            if (freq[i] == freq[j])
+    int i = 0;
+
+    while (i < arrSize) {
+        int j = i;
+
+        // j moves until a different number is found
+        while (j < arrSize && arr[j] == arr[i]) {
+            j++;
+        }
+
+        int count = j - i;
+
+        // Check if this frequency already exists
+        for (int k = 0; k < freqSize; k++) {
+            if (freq[k] == count)
                 return false;
         }
+
+        freq[freqSize++] = count;
+
+        i = j;
     }
 
     return true;
