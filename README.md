@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/raaje108/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/raaje108/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/raaje108/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/raaje108/DSA/tree/master/0739-daily-temperatures) |
 | [0931-minimum-falling-path-sum](https://github.com/raaje108/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/raaje108/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/raaje108/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/raaje108/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raaje108/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/raaje108/DSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/raaje108/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/raaje108/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/raaje108/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
