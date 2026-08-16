@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raaje108/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/raaje108/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Brainteaser
 |  |
