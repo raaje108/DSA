@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raaje108/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/raaje108/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/raaje108/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raaje108/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/raaje108/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/raaje108/DSA/tree/master/0394-decode-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raaje108/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/raaje108/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raaje108/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/raaje108/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raaje108/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/raaje108/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/raaje108/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/raaje108/DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/raaje108/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/raaje108/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
