@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/raaje108/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/raaje108/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/raaje108/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1268-search-suggestions-system](https://github.com/raaje108/DSA/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/raaje108/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raaje108/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raaje108/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/raaje108/DSA/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/raaje108/DSA/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raaje108/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1268-search-suggestions-system](https://github.com/raaje108/DSA/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raaje108/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raaje108/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/raaje108/DSA/tree/master/1768-merge-strings-alternately) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raaje108/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1268-search-suggestions-system](https://github.com/raaje108/DSA/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raaje108/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raaje108/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raaje108/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/raaje108/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/raaje108/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/raaje108/DSA/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raaje108/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
@@ -260,4 +264,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/raaje108/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/raaje108/DSA/tree/master/1268-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/raaje108/DSA/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
