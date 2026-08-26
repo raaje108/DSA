@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/raaje108/DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/raaje108/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/raaje108/DSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/raaje108/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raaje108/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/raaje108/DSA/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/raaje108/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/raaje108/DSA/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/raaje108/DSA/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/raaje108/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/raaje108/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/raaje108/DSA/tree/master/0841-keys-and-rooms) |
 ## Interactive
 |  |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/raaje108/DSA/tree/master/2336-smallest-number-in-infinite-set) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/raaje108/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
