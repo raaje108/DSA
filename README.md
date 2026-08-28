@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/raaje108/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/raaje108/DSA/tree/master/0739-daily-temperatures) |
 | [0931-minimum-falling-path-sum](https://github.com/raaje108/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/raaje108/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/raaje108/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/raaje108/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/raaje108/DSA/tree/master/1268-search-suggestions-system) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/raaje108/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/raaje108/DSA/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/raaje108/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/raaje108/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Breadth-First Search
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/raaje108/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/raaje108/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/raaje108/DSA/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/raaje108/DSA/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/raaje108/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raaje108/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/raaje108/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
