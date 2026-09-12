@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raaje108/DSA/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/raaje108/DSA/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/raaje108/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raaje108/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raaje108/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/raaje108/DSA/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raaje108/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Prefix Sum
 |  |
