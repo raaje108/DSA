@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raaje108/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/raaje108/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raaje108/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/raaje108/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/raaje108/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/raaje108/DSA/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/raaje108/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raaje108/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/raaje108/DSA/tree/master/0739-daily-temperatures) |
@@ -353,5 +355,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/raaje108/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/raaje108/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
