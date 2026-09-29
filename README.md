@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raaje108/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/raaje108/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raaje108/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/raaje108/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/raaje108/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/raaje108/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raaje108/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/raaje108/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/raaje108/DSA/tree/master/0067-add-binary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raaje108/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Prefix Sum
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/raaje108/DSA/tree/master/0067-add-binary) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raaje108/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/raaje108/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Brainteaser
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/raaje108/DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/raaje108/DSA/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/raaje108/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/raaje108/DSA/tree/master/2390-removing-stars-from-a-string) |
